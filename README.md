@@ -1,4 +1,4 @@
-# Projeto de Previsão de Vendas e Aluguéis de Bicicletas 
+# Previsão Aluguéis de Bicicletas usando autoML
 
 # Introdução
 Este projeto visa criar um modelo de previsão utilizando técnicas de aprendizado de máquina para o setor de previsão de vendas e aluguéis de bicicletas. O objetivo é utilizar dados históricos para prever a demanda futura por bicicletas, o que pode ser crucial para otimizar o estoque e maximizar os lucros.
